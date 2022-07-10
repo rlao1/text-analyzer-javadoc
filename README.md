@@ -1,2 +1,11 @@
-# text-analyzer-javadoc
-CEN3042C Module 9 SDLC Part 2 Assignment
+# Text Analyzer Javadoc
+
+### Assignment Description
+Part I: Add JavaDoc usage to your Word Occurrences application.  
+
+Part II: Add your Word Occurrences application to your GitHub repo.
+
+### Javadoc
+https://rlao1.github.io/text-analyzer-javadoc/
+
+![javadoc-preview.gif](/javadoc-preview.gif)
